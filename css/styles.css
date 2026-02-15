@@ -1,0 +1,64 @@
+
+/* Student Name: Bryan Sevilla
+Assignment Name: Homework2: Git/Github Repository
+Date: 2/15/2026 */
+
+body{
+    background-color:#7AB2B2 ;
+    /*If I have time I will change all the colors into a fall style colors*/
+}
+header{background-color:#09637E ;
+    color:#F9FBFC;   /*text for the header*/
+    text-align: center;
+    padding:.5rem;
+    
+}
+section{
+    padding:1em;
+    background-color: #F9FBFC;
+}
+article{
+    padding:1em;
+    background-color: rgb(160,219,219);
+    overflow: auto; 
+}
+footer{
+   
+    background-color:#09637E ;  
+    color:#F9FBFC;
+    padding:1em;
+}   /*I like the almost white text*/
+h2{
+   
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+
+} 
+h3{
+    font-size:1.5em;
+    font-weight: bold;
+    line-height: 2em;
+}
+h4{
+    font-size: 1.2em;
+    color:#56A7A7;
+    font-weight: bolder;
+    line-height: 1.5em;
+    display: block;
+    padding:.5em 0;
+
+}  /*I like the color*/
+p{
+    line-height:1.5em;
+}
+img{
+    float: right;
+}
+/*I like the colors I'm using. spring colors according to Color Hunt.co */
+a:hover {
+    color:#56A7A7;
+}  /* I wanted to do something whith the links, nice color on hover*/
+img{
+    border:5px solid #F9FBFC;
+}
